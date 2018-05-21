@@ -1,0 +1,184 @@
+body {
+    background-color:url "http://dash.ga.co/assets/anna-bg.png" !important;
+ }
+
+.bibliophile {
+    font-style: normal;
+    font-size: 60px;
+    background-color: lightcoral;
+    font-family: "roboto";
+    color: lemonchiffon;
+    border-radius: 20px;
+}
+
+.tophead {
+    background-color: lightsalmon;
+    width: 100%;
+    height: 30px;
+    border-radius: 20px;
+}
+
+.top {
+    text-align-last: right;
+    font-size: 20px;
+    padding: 5px;
+    font-family: "Comfortaa";
+    font-weight: 400;
+    background-image: "https://streetsmnl.files.wordpress.com/2017/08/wp-image-1746557613.jpeg?w=650";
+    background-position: top;
+}
+
+.navbar-nav {
+    font-size: 30px;
+    padding: 30px;
+    font-family: "Comfortaa";
+    text-align: center;
+    display:inline;
+}
+
+.btn1 {
+    color: black !important;
+    border: 2px solid lightsalmon;
+    background-color: lightgoldenrodyellow;
+    padding: 25px;
+    border-radius: 40px;
+
+}
+
+.btn2 {
+    color: black !important;
+    border: 2px solid lightsalmon;
+    background-color: lightgoldenrodyellow;
+    padding: 25px;
+    border-radius: 40px;
+}
+
+.btn3 {
+    color: black !important;
+    border: 2px solid lightsalmon;
+    background-color: lightgoldenrodyellow;
+    padding: 25px;
+    border-radius: 40px
+}
+
+.btn4 {
+    color: black !important;
+    border: 2px solid lightsalmon;
+    background-color: lightgoldenrodyellow;
+    padding: 25px;
+    border-radius: 40px;
+}
+
+.btn5 {
+    color: black !important;
+    border: 2px solid lightsalmon;
+    background-color: lightgoldenrodyellow;
+    padding: 25px;
+    border-radius: 40px;
+}
+
+.align-left {
+    align-content: left;
+    font-size: 15px;
+    padding: 50px;
+    color: black;
+}
+
+#head1 {
+    font-size: 30px;
+    font-weight: bold;
+    border: 3px solid lightcoral;
+    padding: 5px;
+    border-radius: 10px;
+    font-family: monospace;
+    text-align: center;
+}
+
+#head2 {
+    font-size: 30px;
+    font-weight: bold;
+    border: 3px solid lightcoral;
+    padding: 5px;
+    border-radius: 10px;
+    font-family: monospace;
+    text-align: center;
+}
+
+#head3 {
+    font-size: 30px;
+    font-weight: bold;
+    border: 3px solid lightcoral;
+    padding: 5px;
+    border-radius: 10px;
+    font-family: monospace;
+    animation-name: example;
+    animation-duration: 1s;
+    animation-iteration-count: 100;
+    text-align: center;
+}
+
+@keyframes example {
+    from {
+        background-color: lightcoral1
+    }
+    to {
+        background-color: red;
+    }
+}
+
+#head4 {
+    font-size: 30px;
+    font-weight: bold;
+    border: 3px solid lightcoral;
+    padding: 5px;
+    border-radius: 10px;
+    font-family: monospace;
+    text-align: center;
+}
+
+.para {
+    color: black;
+    style: inherit;
+    font-size: 20px;
+}
+
+.para1 {
+    color: black;
+    font-size: 20px;
+}
+
+.para2 {
+    color: black;
+    font-size: 20px;
+}
+
+.para3 {
+    color: black;
+    font-size: 20px;
+}
+
+.picture {
+    width: 50px;
+    text-align: right;
+    background-color: indianred;
+}
+
+.para4 {
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    align: right;
+    
+    padding-bottom: 10px;
+}
+
+.end {
+    margin: 10px;
+    width: 100%;
+    font-weight: bold;
+    border: px solid lightcoral;
+    color: black;
+    padding: 1px;
+    display: block;
+    background-color: lightgoldenrodyellow;
+}
